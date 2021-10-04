@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonylofton02
+- 👋 Hi, I’m Antony!
 - 👀 I’m interested in learning SQL and Python
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on ...
